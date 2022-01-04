@@ -1,6 +1,6 @@
 ### Hey there, I'm [Maurício Linhares][website] 👋 
 
-- Senior Engineer at [DigitalOcean](https://digitalocean.com]
+- Senior Engineer at [DigitalOcean](https://digitalocean.com)
 - [https://hipsters.tech/](https://hipsters.tech/) Co-host
 
 ### Connect with me:
