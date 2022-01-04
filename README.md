@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there, I'm [Maurício Linhares][website] 👋 
 
-<!--
-**mauricio/mauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior Engineer at [DigitalOcean](https://digitalocean.com]
+- [https://hipsters.tech/](https://hipsters.tech/) Co-host
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="mauricio.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Maurício Linhares | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Maurício Linhares | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[website]: https://mauricio.github.io/
+[twitter]: https://twitter.com/mauriciojr
+[linkedin]: https://www.linkedin.com/in/mauriciolinhares/
